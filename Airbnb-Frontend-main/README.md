@@ -144,9 +144,6 @@ The `vercel.json` is already configured for React Router (SPA) support:
 <img width="1920" height="1080" alt="Screenshot (715)" src="https://github.com/user-attachments/assets/aafb9be7-2aa3-4cfd-8364-e1b58c5e9d54" />
 <img width="1920" height="1080" alt="Screenshot (716)" src="https://github.com/user-attachments/assets/e5650cf8-5d6a-42dd-82ee-c7df001b664c" />
 <img width="1920" height="1080" alt="Screenshot (717)" src="https://github.com/user-attachments/assets/89fe7c77-6b9f-444e-b4f6-85e2eada37a8" />
-<img width="1920" height="1080" alt="Screenshot (718)" src="https://github.com/user-attachments/assets/aecbe0b4-32f9-4d08-aaf2-4b40a95abe3a" />
-<img width="1920" height="1080" alt="Screenshot (719)" src="https://github.com/user-attachments/assets/58ed168d-6392-4bad-9612-ce4b5a0353f5" />
-<img width="1920" height="1080" alt="Screenshot (720)" src="https://github.com/user-attachments/assets/1ee157fc-7f24-4e0a-9a9b-92ca7a0017a1" />
 <img width="1920" height="1080" alt="Screenshot (721)" src="https://github.com/user-attachments/assets/d794bc7c-8be7-4892-88d3-3474422f0151" />
 <img width="1920" height="1080" alt="Screenshot (722)" src="https://github.com/user-attachments/assets/f55255bb-671b-4c09-9476-f11135b1e488" />
 <img width="1920" height="1080" alt="Screenshot (723)" src="https://github.com/user-attachments/assets/66622fa7-f76e-4eda-9158-8b62aa15fe05" />
