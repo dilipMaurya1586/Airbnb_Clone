@@ -4,8 +4,7 @@ A production-level hotel booking platform frontend built with **React.js + Vite*
  
 ---
  
-## 🌐 Live Demo
- 
+## 🌐 Live Demo 
 🔗 **[https://airbnb-frontend-peach.vercel.app/](https://airbnb-frontend-peach.vercel.app/)**
  
 ---
@@ -17,13 +16,6 @@ A production-level hotel booking platform frontend built with **React.js + Vite*
 | 📧 Email | chai@gmail.com |
 | 🔑 Password | pass |
 
----
-## 🔗 Backend Repository
- 
-👉 **[Airbnb-Backend](https://github.com/Chaitnya27/Airbnb-Backend)**
- 
----
- 
 ## 🛠️ Tech Stack
  
 | Technology | Purpose |
@@ -72,8 +64,7 @@ A production-level hotel booking platform frontend built with **React.js + Vite*
  
 ---
  
-## 📁 Project Structure
- 
+## 📁 Project Structure 
 ```
 src/
 ├── components/         # Reusable UI components
@@ -142,30 +133,13 @@ npm run build
  
 ## 🚀 Deployment
  
-This project is deployed on **Vercel**.
- 
+This project is deployed on **Vercel**. 
 The `vercel.json` is already configured for React Router (SPA) support:
  
-```json
-{
-  "rewrites": [{ "source": "/(.*)", "destination": "/" }]
-}
-```
- 
----
-
 ## 📬 Contact
- 
-- 💼 [LinkedIn](https://www.linkedin.com/in/chaitnya-khedekar)
 - 🌐 [Live App](https://airbnb-frontend-peach.vercel.app/)
-- 💻 [Backend Repo](https://github.com/Chaitnya27/Airbnb-Backend)
- 
----
-
-
  
 ## 🖼️ Screenshots 
-
 <img width="1920" height="1080" alt="Screenshot (710)" src="https://github.com/user-attachments/assets/2d3e70e8-7a1f-40d2-98f0-4163648865d0" />
 <img width="1920" height="1080" alt="Screenshot (711)" src="https://github.com/user-attachments/assets/ed1f9c4a-0bad-413e-9066-7d1770891d15" />
 <img width="1920" height="1080" alt="Screenshot (712)" src="https://github.com/user-attachments/assets/05d9c6d5-4df1-4503-9682-d47f1340d6c7" />
