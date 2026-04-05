@@ -2,6 +2,13 @@
 
 A full-stack Airbnb-inspired hotel booking platform built with Java Spring Boot and React.js.
 
+## 🧪 Demo Login (Try it out!)
+ 
+| Field | Value |
+|-------|-------|
+| 📧 Email | dilip@gmail.com |
+| 🔑 Password | 123456 |
+
 ## Tech Stack
 
 **Frontend:** React.js, Tailwind CSS  
