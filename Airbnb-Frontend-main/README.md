@@ -137,7 +137,6 @@ This project is deployed on **Vercel**.
 The `vercel.json` is already configured for React Router (SPA) support:
  
 ## 🖼️ Screenshots 
-<img width="1920" height="1080" alt="Screenshot (710)" src="https://github.com/user-attachments/assets/2d3e70e8-7a1f-40d2-98f0-4163648865d0" />
 <img width="1920" height="1080" alt="Screenshot (711)" src="https://github.com/user-attachments/assets/ed1f9c4a-0bad-413e-9066-7d1770891d15" />
 <img width="1920" height="1080" alt="Screenshot (712)" src="https://github.com/user-attachments/assets/05d9c6d5-4df1-4503-9682-d47f1340d6c7" />
 <img width="1920" height="1080" alt="Screenshot (713)" src="https://github.com/user-attachments/assets/7e2f57f9-753d-4100-be72-af3e4e71e38a" />
