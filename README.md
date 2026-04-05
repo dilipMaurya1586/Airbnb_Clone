@@ -15,7 +15,7 @@ airbnb-clone/
 └── server/   # Spring Boot backend
 ## Live Demo
 
-- Frontend: [airbnb-frontend-rose.vercel.app](https://airbnb-frontend-rose.vercel.app)
+- Frontend: [airbnb-frontend-rose.vercel.app]( https://airbnb-frontend-peach.vercel.app/)
 - Backend: Deployed on Render
 
 ## Features
