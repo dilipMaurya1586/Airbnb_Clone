@@ -13,8 +13,8 @@ A production-level hotel booking platform frontend built with **React.js + Vite*
  
 | Field | Value |
 |-------|-------|
-| 📧 Email | chai@gmail.com |
-| 🔑 Password | pass |
+| 📧 Email | dilip@gmail.com |
+| 🔑 Password | 123456 |
 
 ## 🛠️ Tech Stack
  
