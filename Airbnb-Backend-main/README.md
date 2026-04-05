@@ -53,4 +53,5 @@ mvn spring-boot:run
 ✅ JPA repositories
 ✅ Role-based access (USER/HOST)
 
+<img width="1920" height="1080" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/b3dc9a1b-b3a6-4b60-9c99-4b07af0761d0" />
 <img width="1092" height="810" alt="Screenshot 2026-04-05 231225" src="https://github.com/user-attachments/assets/1bd30678-961a-461b-9910-94369578e2f9" />
