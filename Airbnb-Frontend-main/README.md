@@ -136,9 +136,6 @@ npm run build
 This project is deployed on **Vercel**. 
 The `vercel.json` is already configured for React Router (SPA) support:
  
-## 📬 Contact
-- 🌐 [Live App](https://airbnb-frontend-peach.vercel.app/)
- 
 ## 🖼️ Screenshots 
 <img width="1920" height="1080" alt="Screenshot (710)" src="https://github.com/user-attachments/assets/2d3e70e8-7a1f-40d2-98f0-4163648865d0" />
 <img width="1920" height="1080" alt="Screenshot (711)" src="https://github.com/user-attachments/assets/ed1f9c4a-0bad-413e-9066-7d1770891d15" />
